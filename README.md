@@ -1,7 +1,6 @@
 # Huawei Scolarship Tasks
 Tasks solutions for huawei scolarship participation
-## RGB game
-### Running
+### RGB game
 - Go to `rgb` folder
 - Run `./gradlew` (for Linux/Mac) or `gradlew.bat` (for Windows)
 - Go to `build/libs` folder
